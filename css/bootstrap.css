@@ -1,0 +1,78 @@
+body {
+padding-top: 50px;
+padding-bottom: 20px;
+}
+
+ul.nav, .jumbotron h1 {
+font-family: 'Arvo', courier, serif;
+}
+
+ ul.nav, .jumbotron h1 {
+ 	font-family:'Arvo', courier, serif;
+ }
+
+.jumbotron {
+text-align: center;
+background-image: url("../images/hero_image.jpg");
+color: white;
+}
+
+.jumbotron h1 {
+margin-top: 0px;
+margin-bottom: 20px;
+}
+
+.jumbotron p {
+margin-bottom: 30px;
+font-weight: 100;
+padding: 0 50px;
+}
+
+.btn-lg {
+font-size: 36px;
+}
+
+ 
+.homepage a:hover {
+	color:#e74c3;
+	text-decoration: none;
+	opacity:.8;
+}
+
+.homepage hr {
+border-top: 1px solid #e74c3c;
+width: 150px;
+margin-top: 15px;
+}
+
+ 
+
+.homepage {
+text-align: center;
+}
+.homepage h2, .homepage h3 {
+font-family: ‘Arvo’, courier, serif;
+color: #e74c3c;
+text-transform: uppercase;
+}
+.homepage h2 {
+font-size: 30px;
+}
+.homepage h3 {
+font-size: 26px;
+}
+.homepage p {
+font-size: 21px;
+font-weight: 300;
+}
+.homepage a {
+color: #e74c3c;
+}<br>
+.hompage a:hover {
+	color: #e74c3c;
+	text-decoration: none;
+	opacity:.8;
+
+#get-involved {
+	background-color:#f5f5f5;
+}
